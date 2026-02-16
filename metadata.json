@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ClassAttend AI",
+  "description": "A professional classroom attendance management system with Google Sheets integration and AI-powered student insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
